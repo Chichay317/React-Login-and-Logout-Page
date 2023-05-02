@@ -1,0 +1,42 @@
+.login {
+  width: 50%;
+  margin: 30px auto;
+  padding: 30px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 8px 10px;
+  border: 1px solid rgb(168, 168, 214);
+  outline: none;
+  border-radius: 8px;
+}
+
+.form-group input:focus {
+  outline: rgb(143, 143, 223);
+}
+
+.spec-input {
+  margin-bottom: 30px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 30px auto 0px auto;
+  font-size: 20px;
+  color: #fff;
+  background-color: rgb(226, 67, 93);
+  border: 1px solid rgb(226, 67, 93);
+  padding: 8px 30px;
+  border-radius: 8px;
+}

@@ -1,0 +1,21 @@
+.nav-lists {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.nav-lists li {
+  list-style: none;
+}
+
+.nav-lists li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
+
+.spec-nav-list {
+  background-color: rgb(226, 67, 93);
+  padding: 10px 30px;
+  border-radius: 15px;
+}

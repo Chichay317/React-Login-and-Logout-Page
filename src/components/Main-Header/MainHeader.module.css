@@ -1,0 +1,12 @@
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 50px;
+  background-color: purple;
+}
+
+.main-header h2 {
+  color: #fff;
+  font-size: 26px;
+}
